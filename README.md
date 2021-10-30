@@ -9,4 +9,4 @@ to collaborate on  project feel to reach out to me!
 - Basic E-commerce website that provided essential knowledge and skills needed for real world websites.
 
 ## Contact
-- [Linkedin Account](www.linkedin.com/in/carlos-santiago-b53967224)
+- Click [here](https://www.linkedin.com/in/carlos-santiago-b53967224/) to go to my Linkedin account.

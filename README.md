@@ -13,7 +13,7 @@ to collaborate on  project feel to reach out to me!
 
 ### C# Bank App
 - Created an apllication thats similar to a ATM application wiht two types of users.
-- To go to repository click -> [Bank Repo](https://github.com/Carlosvann45/Bank-Application)
+- To go to repository click here -> [Bank Repo](https://github.com/Carlosvann45/Bank-Application)
 
 # Contact
 - To go to my linkedin account click here -> [Linkedin Account](https://www.linkedin.com/in/carlos-santiago-b53967224/)

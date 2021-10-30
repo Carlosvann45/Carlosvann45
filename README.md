@@ -12,6 +12,7 @@ to collaborate on project feel to reach out to me!
 
 ### Histogram 
 - Creates functionality to read and show a histogram of a speech with other functionality like removing a word.
+- To go to repositroy click here -> [Histogram Repo](https://github.com/Carlosvann45/Histogram-Project)
 
 ### Bank App
 - Created an application thats similar to an ATM application wiht two types of users.

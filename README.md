@@ -1,7 +1,7 @@
 # Introduction
 
-Hey EveryBody! This repository is for resume and project purposes. Although if you would like
-to collaborate on  project feel to reach out to me!
+Hey everybody! This repository is for resume and project purposes. Although if you would like
+to collaborate on project feel to reach out to me!
 
 # Current Projects
 

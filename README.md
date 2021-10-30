@@ -8,8 +8,6 @@ to collaborate on project feel to reach out to me!
 ### Sports Apparel website 
 - Basic E-commerce website that provided essential knowledge and skills needed for real world websites.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ## C# Projects
 
 ### Histogram 

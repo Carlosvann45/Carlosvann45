@@ -12,7 +12,7 @@ to collaborate on  project feel to reach out to me!
 - Creates functionality to read and show a histogram of a speech with other functionality like removing a word.
 
 ### C# Bank App
-- Created an apllication thats similar to a ATM application wiht two types of users.
+- Created an application thats similar to an ATM application wiht two types of users.
 - To go to repository click here -> [Bank Repo](https://github.com/Carlosvann45/Bank-Application)
 
 # Contact

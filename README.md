@@ -32,7 +32,7 @@ to collaborate on one of these projects or any project feel to reach out to me!
 - Calculator Project -> [Calculator Repo](https://github.com/Carlosvann45/Calculator)
 
 ### Java
-
+- Java War Project -> [Java War Repo](https://github.com/Carlosvann45/Java-War)
 ### C#
 - Sort and Search Project -> [Sort and Search Repo](https://github.com/Carlosvann45/Sort-and-Search)
 - Histogram Project -> [Histogram Repo](https://github.com/Carlosvann45/Histogram-Project)

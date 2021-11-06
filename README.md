@@ -5,7 +5,7 @@ to collaborate on project feel to reach out to me!
 ## Projects
 
 ### Full Stack
-- Java Sports Apparel Website click here -> [Sports Apparel](https://sr-sportsapparel-ui.heokuapp.com)
+- Java Sports Apparel Website click here -> [Sports Apparel](https://sr-sportsapparel-ui.herokuapp.com)
 
 ### Java Script
 

@@ -32,7 +32,7 @@ to collaborate on one of these projects or any project feel to reach out to me!
 ### Java
 
 ### C#
-- Sort and Search Project -> [Sort and Search Repo](https://github.com/Carlosvann45/Sort-and-Search/blob/main/README.md)
+- Sort and Search Project -> [Sort and Search Repo](https://github.com/Carlosvann45/Sort-and-Search)
 - Histogram Project -> [Histogram Repo](https://github.com/Carlosvann45/Histogram-Project)
 - Bank App -> [Bank Repo](https://github.com/Carlosvann45/Bank-Application)
 

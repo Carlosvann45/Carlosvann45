@@ -3,7 +3,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#introduction">About The Project</a>
+      <a href="#introduction">Introduction</a>
     </li>
     <li>
           <a href="#projects">Projects</a>

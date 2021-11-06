@@ -29,6 +29,7 @@ to collaborate on one of these projects or any project feel to reach out to me!
 
 ### Java Script
 - Observation Project -> [Observation Repo](https://github.com/Carlosvann45/Observation-Project)
+- Calculator Project -> [Calculator Repo](https://github.com/Carlosvann45/Calculator)
 
 ### Java
 

@@ -26,6 +26,7 @@ to collaborate on one of these projects or any project feel to reach out to me!
 - Sports Apparel Website -> [Sports Apparel](https://sr-sportsapparel-ui.herokuapp.com)
 
 ### C#
+- Game of Life Project -> [Game of Life Repo](https://github.com/Carlosvann45/GameOfLifeProject/tree/main)
 - Sort and Search Project -> [Sort and Search Repo](https://github.com/Carlosvann45/Sort-and-Search)
 - Histogram Project -> [Histogram Repo](https://github.com/Carlosvann45/Histogram-Project)
 - Bank App -> [Bank Repo](https://github.com/Carlosvann45/Bank-Application)

@@ -36,6 +36,7 @@ to collaborate on one of these projects or any project feel to reach out to me!
 
 ### Python
 - Tic Tac Toe Program -> [Comming Soon]()
+- Sarcasm Detection API -> [API Repository](https://github.com/Carlosvann45/sarcasmAPI)
 
 ### React JS
 - Movie Theater UI -> [UI Repository](https://github.com/Carlosvann45/Movie-Theater-UI)

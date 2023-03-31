@@ -26,7 +26,6 @@ to collaborate on one of these projects or any project feel to reach out to me!
 # Projects
 
 ### Full Stack Websites
-- Sports Apparel Website -> [Sports Apparel](https://sr-sportsapparel-ui.herokuapp.com)
 
 ### C#
 - Game of Life Project -> [Game of Life Repo](https://github.com/Carlosvann45/GameOfLifeProject/tree/main)
